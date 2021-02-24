@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ngx-admin-demo": {
+    "lnt-scape": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -156,7 +156,7 @@
         }
       }
     },
-    "ngx-admin-demo-e2e": {
+    "lnt-scape-e2e": {
       "root": "",
       "sourceRoot": "",
       "projectType": "application",
@@ -180,7 +180,7 @@
       }
     }
   },
-  "defaultProject": "ngx-admin-demo",
+  "defaultProject": "lnt-scape",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "ngx",
